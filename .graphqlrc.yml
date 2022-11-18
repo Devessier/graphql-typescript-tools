@@ -1,0 +1,4 @@
+# Understood by GraphQL extension (https://marketplace.visualstudio.com/items?itemName=GraphQL.vscode-graphql)
+
+schema: ./schema.graphql
+documents: pages/**/*.tsx
